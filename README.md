@@ -9,8 +9,6 @@
     2. SQL.
     3. Pandas Analytics. 
 
--🔗 Links:
-        https://www.linkedin.com/in/kosisochukwu-mbachu-igwe-945b541a8
 
 -  Others
  
@@ -21,6 +19,9 @@
 🧠 I'm currently learning Pandas Analytics.
 
 📫 Here is how to reach me mbachuigwek8@gmail.com
+
+-🔗 Links:
+       [LinkedIn](https://www.linkedin.com/in/kosisochukwu-mbachu-igwe-945b541a8)
 
 
 <!---
