@@ -10,7 +10,7 @@
     4. Micosoft Excel.
 
 
--  Others
+
 📫 Here is how to reach me mbachuigwek8@gmail.com
 
 -🔗 Links:
