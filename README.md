@@ -6,8 +6,9 @@
 - 🛠 Skills:
     1. Python.
     2. SQL.
-    3. Pandas Analytics. 
-    4. Micosoft Excel.
+    3. Pandas Analytics.
+    4. Tableau. 
+    5. Micosoft Excel.
 
 
 
